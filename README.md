@@ -43,7 +43,7 @@
 1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner)
 2. [**Skladač Fráz pre Google AdWords**](http://kw.tre.sk/sk)
 3. [**Ultimae PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
-4. Microsoft Excel, Open Office, Libre Office, Google Tabuľky/Google Sheets
+4. Microsoft Excel, Open Office, Libre Office, Google Tabuľky/Google Sheets, [Google Open Refine](https://openrefine.org/)
 5. [**Keyword Tool**](https://www.keywordtool.io)
 6. [**Longtail Keyword Research Tool**](https://www.keyword.io)
 7. [**Wordtracker**](https://www.wordtracker.com/)
