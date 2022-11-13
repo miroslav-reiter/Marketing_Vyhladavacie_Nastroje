@@ -38,3 +38,20 @@
 * **20 bodov** získanie Google certifikácie Mobilné prostredie + aktívna účasť
 * **50 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
+ 
+## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
+1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner)
+2. [**Skladač Fráz pre Google AdWords**](http://kw.tre.sk/sk)
+3. [**Ultimae PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
+4. Microsoft Excel, Open Office, Libre Office, Google Tabuľky/Google Sheets
+5. [**Keyword Tool**](https://www.keywordtool.io)
+6. [**Longtail Keyword Research Tool**](https://www.keyword.io)
+7. [**Wordtracker**](https://www.wordtracker.com/)
+8. [**MOZ**](https://moz.com/products)
+9. [**Ahrefs**](https://www.ahrefs.com/)
+10. [**Majestic SEO**](https://majestic.com/)
+11. [**Semrush**](https://www.semrush.com/)
+12. [**Raven**](https://raven.com)
+13. [**Screaming Frog**](https://www.screamingfrog.co.uk/seo-spider/)
+14. [**Collabim CZ/SK**](https://www.collabim.cz/sk)
+15. [**Marketing Miner CZ/SK**](https://www.marketingminer.com/sk)
