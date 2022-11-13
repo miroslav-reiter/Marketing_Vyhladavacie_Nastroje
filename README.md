@@ -6,7 +6,7 @@
 * Úroveň: mierne pokročilý
 * Odporúčané kolaboračné nástroje na prácu v tíme: Mural, Jamboard, Miro, Microsoft Word a PowerPoint v OneDrive, Google Workspace
 
-## Sylabus/Čo nás čaká a neminie...
+## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Viditeľnosť vo výsledkoch vyhľadávania ako základ integrovanej marketingovej komunikácie.
 1. Vyhľadávacie nástroje – prehľad SK verzus iné krajiny, podobnosti a rozdiely.
 1. Výsledky vyhľadávania – princíp hľadania, typy odkazov a výsledkov, hlasové vyhľadávanie.
@@ -18,7 +18,7 @@
 1. SEO audit – komponenty, praktické ukážky auditu a nastavenia SEO stratégie.
 1. Projekt návrhu a implementácie SEM stratégie resp. realizácie SEO auditu vybranej webovej stránky.
 
-## Výsledky vzdelávania
+## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad v online marketingových vyhľadávacích nástrojchv a aplikáciach vrátane SEO
 * Využívať odborné znalosti v praxi
 * Zdokonaliť sa v tímovej spolupráci a prezentovaní
@@ -33,7 +33,7 @@
 ## 📈 YouTube video záznamy z cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=GNUM6owU7s8&list=PLIu_ZdHo7Pk8rNPvytjNNVjKFZ1TJlbkP)
 
-## Podmienky na absolvovanie predmetu
+## 🥇 Podmienky na absolvovanie predmetu
 * **30 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
 * **20 bodov** získanie Google certifikácie Mobilné prostredie + aktívna účasť
 * **50 bodov** záverečné hodnotenie
