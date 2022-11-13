@@ -40,9 +40,9 @@
   *  Skúška – písomná, online test 
  
 ## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
-1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner)
+1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner), Google Search Console, Google Trends
 2. [**Skladač Fráz pre Google AdWords**](http://kw.tre.sk/sk)
-3. [**Ultimae PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
+3. [**Ultimate PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
 4. Microsoft Excel, Open Office, Libre Office, Google Tabuľky/Google Sheets, [Google Open Refine](https://openrefine.org/)
 5. [**Keyword Tool**](https://www.keywordtool.io)
 6. [**Longtail Keyword Research Tool**](https://www.keyword.io)
@@ -51,7 +51,9 @@
 9. [**Ahrefs**](https://www.ahrefs.com/)
 10. [**Majestic SEO**](https://majestic.com/)
 11. [**Semrush**](https://www.semrush.com/)
-12. [**Raven**](https://raven.com)
+12. [**ubersuggest**](https://neilpatel.com/ubersuggest/)
+13. [**Raven**](https://raven.com)
 13. [**Screaming Frog**](https://www.screamingfrog.co.uk/seo-spider/)
 14. [**Collabim CZ/SK**](https://www.collabim.cz/sk)
 15. [**Marketing Miner CZ/SK**](https://www.marketingminer.com/sk)
+16. [**LuigiBox CZ/SK**](https://www.luigibox.com/)
