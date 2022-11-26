@@ -99,11 +99,39 @@ D. Viete ako hľadajú?
 ![image](https://user-images.githubusercontent.com/24510943/204105403-911171f9-907e-4b95-a4b5-a5063df5d544.png)
 ![image](https://user-images.githubusercontent.com/24510943/204105407-ac9e521a-10b8-45ca-b5bf-fa759d1efd7c.png)
 
+## 🔑 Postup Analýza Kľúčových Slov
+![image](https://user-images.githubusercontent.com/24510943/204105671-af91fe0e-7abc-4062-bc18-770d0560c366.png)
+
 ### ✨ Atribúty (faktory) kľúčových slov
 ![image](https://user-images.githubusercontent.com/24510943/204105415-348e9881-a00f-4ee1-923a-0777b9fa1e65.png)
 
 ## ⁉️ Analýza Kľučových Slov
 ![image](https://user-images.githubusercontent.com/24510943/204105428-655448a7-8fac-43b8-940a-9ce252c2e043.png)
+
+## 🦘 Longtaily (Dlhý Chvosť)
+![image](https://user-images.githubusercontent.com/24510943/204105488-562cc07a-8334-4536-aabc-21949166d6bc.png)
+![image](https://user-images.githubusercontent.com/24510943/204105494-f386eb77-07e9-4e6c-8efd-f296af33d4cf.png)
+![image](https://user-images.githubusercontent.com/24510943/204105499-48d73300-4d27-48a7-ae7b-a67f1a885624.png)
+
+## 〽️ Search Demand Curve
+![image](https://user-images.githubusercontent.com/24510943/204105533-726002d4-6219-43af-800c-780f384b3afd.png)
+
+![image](https://user-images.githubusercontent.com/24510943/204105537-de7956ea-8a5b-4bca-911c-d9f3e045ef2a.png)
+
+### 🤑 Longtaily (Financie)
+![image](https://user-images.githubusercontent.com/24510943/204105560-6946287c-cf1e-439b-b031-fcce5460f0ee.png)
+
+### 🌐 Longtaily (Weby a meditácia)
+![image](https://user-images.githubusercontent.com/24510943/204105574-bd57fa3a-a4b2-45ae-9497-fc9f36b7df28.png)
+
+## 📊 Štatistiky Kľúčových Slov
+![image](https://user-images.githubusercontent.com/24510943/204105602-f759ef90-cb8d-4007-99ce-37232d814327.png)
+
+![image](https://user-images.githubusercontent.com/24510943/204105613-3182054e-2ea1-4dd4-a986-3c2caceffec7.png)
+
+## ⛝ Výskumná Matica Kľúčových Slov
+![image](https://user-images.githubusercontent.com/24510943/204105625-4998a76f-1af6-4058-9020-3599222fb376.png)
+
 
 ### 🌿 Zadanie Alza
 ![image](https://user-images.githubusercontent.com/24510943/204105223-02d0b8e3-19fd-4780-88aa-96b7aa1a1b51.png)
