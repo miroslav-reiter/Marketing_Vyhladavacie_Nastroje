@@ -57,3 +57,58 @@
 14. [**Collabim CZ/SK**](https://www.collabim.cz/sk)
 15. [**Marketing Miner CZ/SK**](https://www.marketingminer.com/sk)
 16. [**LuigiBox CZ/SK**](https://www.luigibox.com/)
+
+## 🥼 Čo je Analýza?
+
+- Vedecká (výskumná) metóda skúmania zložitejších skutočností rozkladom na jednoduchšie
+- Metóda práce používajúca rozbor a rozkladanie
+- Všeobecná metóda výskumu jednotlivých vlastností niečoho
+- Rozbor, rozklad na jednotlivé prvky, časti či zložky (opak syntézy)
+- Rozklad nejakého celku na jeho zložky, súčasti, ktorý smeruje k nejakým relatívne najjednoduchším zložkám, za ktoré sa ďalej už nepokračuje (prvky)
+
+![image](https://user-images.githubusercontent.com/24510943/204105143-bcf5484a-f2b1-4a95-b9a2-217797555f9f.png)
+
+## ✍️ Analýza Kľúčových Slov
+
+- Klasifikačná analýza (Klasifikácia) 
+- Komparatívna analýza (Porovnávanie) pri auditoch
+
+1. Zber (nájdenie) správnych slov/fráz
+1. Čistenie dát
+1. Triedenie (klasifikácia) a schémy
+1. Implementácia
+
+A. K akým používateľom hovoríte?  
+B. Viete čo návštevníci hľadajú?  
+C. Viete ako s nimi komunikovať?  
+D. Viete ako hľadajú?  
+
+### 🆒 Kľúčové Slová (Keywords)
+![image](https://user-images.githubusercontent.com/24510943/204105251-2abd1751-35c1-4ac5-a354-a17004cf9ccc.png)
+
+#### 🆕 Požiadavky na Kľúčové Slová
+![image](https://user-images.githubusercontent.com/24510943/204105278-fa63c893-6e25-48a6-b11c-b4c9de182106.png)
+
+#### 🔠 Zhody Kľúčové Slová
+![image](https://user-images.githubusercontent.com/24510943/204105295-b055f0fa-a5e5-4c79-a71b-4e581437ff0b.png)
+
+### 🔀 Výber a Kategorizácia
+![image](https://user-images.githubusercontent.com/24510943/204105346-3d8b55dc-9699-4192-bcb5-297add8e823b.png)
+![image](https://user-images.githubusercontent.com/24510943/204105377-3c8a7623-17f3-4582-b5e4-a2e4706ef725.png)
+
+![image](https://user-images.githubusercontent.com/24510943/204105403-911171f9-907e-4b95-a4b5-a5063df5d544.png)
+![image](https://user-images.githubusercontent.com/24510943/204105407-ac9e521a-10b8-45ca-b5bf-fa759d1efd7c.png)
+
+### ✨ Atribúty (faktory) kľúčových slov
+![image](https://user-images.githubusercontent.com/24510943/204105415-348e9881-a00f-4ee1-923a-0777b9fa1e65.png)
+
+## ⁉️ Analýza Kľučových Slov
+![image](https://user-images.githubusercontent.com/24510943/204105428-655448a7-8fac-43b8-940a-9ce252c2e043.png)
+
+### 🌿 Zadanie Alza
+![image](https://user-images.githubusercontent.com/24510943/204105223-02d0b8e3-19fd-4780-88aa-96b7aa1a1b51.png)
+
+![image](https://user-images.githubusercontent.com/24510943/204105226-f5949a62-e17a-4b2f-a474-290a09ceff5f.png)
+
+
+
