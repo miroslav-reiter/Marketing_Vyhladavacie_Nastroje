@@ -37,7 +37,16 @@
 * **30 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
 * **20 bodov** získanie Google certifikácie Mobilné prostredie + aktívna účasť
 * **50 bodov** záverečné hodnotenie
-  *  Skúška – písomná, online test 
+  *  Skúška – písomná, online test
+ 
+## 🏆 Ako a Čo hodnotím v odovzdanom Projekte?
+Krátka odpoveď: **Všetko**.
+
+Dlhšia odpoveď:
+1. Splnenie povinných náležitostí.
+1. Obsah, forma a kvalita prezentácie.
+1. Pripravenosť a odprezentovanie/prednes.
+1. Pridaná hodnota a prínosy projektu.
  
 ## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
 1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner), Google Search Console, Google Trends
